@@ -1,3 +1,4 @@
+![logo](https://github.com/Garry864/Garry864/blob/main/GitHub%20Background.png)
 <h1 align="center">Hi 👋, I'm Gaurav yadav</h1>
 <h3 align="center">A Data Analyst | Business Analyst | Python Developer from India</h3>
 
